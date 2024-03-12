@@ -1,0 +1,27 @@
+{
+  "name": "AquaSave Token",
+  "description": "A token to promote water conservation.",
+  "image": "https://github.com/seseWho/aqua-image-storage/blob/main/aquasaveLogo.png",
+  "attributes": [
+    {
+      "trait_type": "Foundation",
+      "value": "AquaSave Initiative"
+    }
+  ],
+  "external_url": "https://aquasave.io",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/seseWho/aqua-image-storage/blob/main/aquasaveLogo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9uQ...F9n",
+        "share": 100
+      }
+    ]
+  }
+}
