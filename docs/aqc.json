@@ -1,12 +1,8 @@
 {
   "name": "AquaSave Token",
+  "symbol": "AQC",
   "description": "A token to promote water conservation.",
-  "image": "https://raw.githubusercontent.com/seseWho/aqua-image-storage/main/docs/aquasaveLogo.png",
-  "attributes": [
-    {
-      "trait_type": "Foundation",
-      "value": "AquaSave Initiative"
-    }
-  ],
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/seseWho/aqua-image-storage/main/docs/aquasaveLogo.png",  
   "external_url": "https://aquasave.io"
 }
