@@ -3,6 +3,6 @@
   "symbol": "AQC",
   "description": "A token to promote water conservation.",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/seseWho/aqua-image-storage/main/docs/aquasaveLogo.png",  
+  "image": "https://raw.githubusercontent.com/seseWho/aqua-image-storage/main/docs/aquasaveLogo.ico",  
   "external_url": "https://aquasave.io"
 }
