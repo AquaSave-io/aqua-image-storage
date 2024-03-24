@@ -4,5 +4,16 @@
   "description": "A token to promote water conservation.",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/AquaSave-io/aqua-image-storage/main/docs/aquasaveLogo.png",  
-  "external_url": "https://aquasave.io"
+  "external_url": "https://aquasave.io",
+  "attributes": {
+    "official Website":"https://aquasave.io/",
+    "discord": "https://discord.gg/tuDiscordInvitacion",
+    "x": "https://x.com/AquaSaveCrypto",
+    "twitter": "https://twitter.com/AquaSaveCrypto",
+    "instagram": "https://www.instagram.com/aquasave.io/",
+    "linkedIn": "https://www.linkedin.com/company/aquasave-io/",
+    "medium": "https://medium.com/@aquabanknetwork",    
+    "youtube":"https://www.youtube.com/@AquaSaveCrypto",
+    "reddit":"https://www.reddit.com/user/AquasaveCrypto/"
+  }
 }
